@@ -22,7 +22,7 @@ A redesign of how we learn and build. Combines:
 - Community: real nonprofit, failure labs
 
 ## 💥 Core Values
-Failure = Progress
-Care = Infrastructure
-Profit = Byproduct
-Ownership = Shared
+- Failure = Progress
+- Care = Infrastructure
+- Profit = Byproduct
+- Ownership = Shared
