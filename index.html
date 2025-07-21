@@ -9,6 +9,12 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
+<div id="nav"></div>
+<script src="parser.js"></script>
+<script>
+  loadNavigation('nav_manifest.json', 'nav');
+</script>
+
   <nav>
     <a href="#" onclick="loadMarkdown('docs/Manifesto_Summary.md')">Manifesto</a> |
     <a href="#" onclick="loadMarkdown('docs/Moshi_Charter_Proposal.md')">Charter</a> |
