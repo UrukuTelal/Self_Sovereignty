@@ -20,4 +20,4 @@ This repo contains the documentation, tools, and templates for building a regene
 
 Fork it. Remix it. Grow it where you are.
 
-> This is not just a school. It’s a world design.
+> This is not just a school. It’s a world re-design.
